@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "package": "com.nikita23830.mixinfixmods.mixins",
+  "mixins": [],
+  "server": [
+    "NetHandlerPlayServerWritableBook",
+    "SpawnChicken",
+    "EnderPortalFix",
+    "EnderPortalFixToo",
+    "MixinContainerPlayer",
+    "MixinFixTameWolf",
+    "FixSpawner",
+    "MixinFixTameOcelot",
+    "ItemInWorldManagerMixin",
+    "ContainerEnchantmentMixin",
+    "ContainerWorkbenchMixin",
+    "ContainerRepairMixin"
+  ],
+  "client": [],
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixin.ecmascript.refmap.json"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "EcmascriptFixMod",
+    "name": "EcmascriptFixMod",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "updateUrl": "",
+    "authorList": [
+      "ecmascript"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["CabHelper"]
+  }
+]
